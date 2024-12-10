@@ -1,0 +1,7 @@
+Skloniti fftfreq i namestiti da je ft samo ft[:10] "+" ft[-9:]. Plotovati tako a x = np.arange(-9,10). Paziti na abs i angle.
+
+Uraditi energiju - sve vec ima u uputstvu
+
+Izvodjenje malo lepse ako bas nemas sta da radis
+
+Nes random dodati u delu za energiju!
